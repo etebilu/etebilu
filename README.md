@@ -1,4 +1,4 @@
-- 👋 olá, eu sou o @etebilu
+- 👋 ete bilu👽
 - 👀 eu estou interessado em programação html
 - 🌱 frequentemente busco aprender css.github,desenvouvimento pessoal
 - 💞️ eu sou aluno de pensamento computacional,
