@@ -8,4 +8,4 @@
 etebilu/etebilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://www.gifcen.com/wp-content/uploads/2022/04/zoro-gif-5.gif)
+![](https://www.gifcen.com/wp-content/uploads/2023/07/zoro-gif.gif)
