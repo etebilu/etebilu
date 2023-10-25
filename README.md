@@ -9,5 +9,5 @@ etebilu/etebilu is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://www.gifcen.com/wp-content/uploads/2023/07/zoro-gif.gif)
-
+![](https://media.tenor.com/QVO4cun51cAAAAAC/gojo-satoru-jujutsu-kaisen.gif)
 
